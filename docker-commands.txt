@@ -1,0 +1,32 @@
+Docker Commands for Hello World Project
+=====================================
+
+1. BUILD THE IMAGE:
+   docker build -t hello-world-app .
+
+2. RUN THE CONTAINER:
+   docker run -p 5000:5000 hello-world-app
+
+3. RUN IN BACKGROUND (DETACHED):
+   docker run -d -p 5000:5000 --name my-hello-app hello-world-app
+
+4. VIEW RUNNING CONTAINERS:
+   docker ps
+
+5. STOP THE CONTAINER:
+   docker stop my-hello-app
+
+6. REMOVE THE CONTAINER:
+   docker rm my-hello-app
+
+7. VIEW ALL IMAGES:
+   docker images
+
+8. REMOVE THE IMAGE:
+   docker rmi hello-world-app
+
+9. VIEW CONTAINER LOGS:
+   docker logs my-hello-app
+
+10. ACCESS CONTAINER SHELL:
+    docker exec -it my-hello-app /bin/bash
