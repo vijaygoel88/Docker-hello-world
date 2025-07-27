@@ -66,11 +66,11 @@ Whether you're a developer, DevOps engineer, or just starting out — this guide
 
 \### 3️⃣ Enable WSL2 (if not already)
 
-Open PowerShell as Administrator:
+Open cmd as Administrator:
 
 
 
-```powershell
+```windows command line
 
 wsl --install
 
