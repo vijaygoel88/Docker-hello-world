@@ -130,16 +130,6 @@ docker push vijaygoel/my-app:1.0
 | Google Artifact Registry  | Ideal for GCP pipelines    |
 | JFrog Artifactory         | Enterprise-ready & self-hosted |
 
----
-
-## 🧪 Sample Demo Files (Included in Repo)
-
-- 📄 `Dockerfile` – sample containerized app
-- ⚙️ `docker-compose.yml` – multi-container app setup
-- 📜 `push.sh` – helper script to tag and push image
-- 📝 `README.md` – this guide
-
----
 
 ## ✅ Summary Tips
 
