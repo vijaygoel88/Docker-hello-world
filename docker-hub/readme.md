@@ -7,26 +7,6 @@ This repository supports my [YouTube video](https://www.youtube.com/playlist?lis
 
 Whether you're just starting out or looking to master Docker Hub, this guide and demo files will help you understand how to use Docker Hub effectively and securely.
 
----
-
-## 📌 Video Timestamps
-
-- 00:00 – Introduction
-- 00:30 – What is Docker Hub?
-- 01:30 – Public vs Private Repositories
-- 02:30 – How Docker Hub Works (Behind the Scenes)
-- 04:00 – Creating a Docker Hub Account
-- 05:00 – Docker Login and Push Workflow
-- 07:00 – Pulling Images from Docker Hub
-- 08:00 – Using Official vs Community Images
-- 09:30 – Tagging and Versioning Images
-- 11:00 – Docker Hub Security Tips
-- 12:00 – Alternatives to Docker Hub
-- 13:00 – Final Tips & Summary
-- 13:30 – Outro
-
----
-
 ## 🐳 What is Docker Hub?
 
 Docker Hub is a **cloud-based registry** for container images, similar to how GitHub works for code. It allows you to:
